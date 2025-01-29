@@ -11,8 +11,8 @@ In this project, we propose NightSight: a pipeline towards enhancement and de-bl
 ## Steps to Run the Demo
 1. Clone the Repository
    ```
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Yashaswini2039/NightSight.git
+   cd NightSight
    ```
 2. Run the .ipynb file
    ```
