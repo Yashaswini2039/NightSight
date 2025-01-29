@@ -7,3 +7,19 @@ In this project, we propose NightSight: a pipeline towards enhancement and de-bl
 * Propose the NightSight pipeline for simultaneous low-light image enhancement and de-blurring.
 * Employ a contemporary enhancement and deblurring framework for joint Low-light Image Enhancement and Deblurring.
 * Evaluate the pipeline's effectiveness on real world images and compare results with LEDNet model. 
+
+## Steps to Run the Demo
+1. Clone the Repository
+   ```
+   git clone https://github.com/your-username/your-repository.git
+   cd your-repository
+   ```
+2. Run the .ipynb file
+   ```
+   NightSight_Demo.ipynb
+   ```
+## Contact
+
+For any queries, feel free to reach out:
+
+Email: palaniyashaswini@gmail.com
